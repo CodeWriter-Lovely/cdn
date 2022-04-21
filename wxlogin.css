@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.impowerBox .qrcode {width: 200px;}
+.impowerBox .title {display: none;}
+.impowerBox .info {width: 240px;}
+.status_icon {display: none !important}
+.impowerBox .status {text-align: center;}
+.impowerBox .status_succ, .impowerBox .status_fail{margin-left:0px !important}
